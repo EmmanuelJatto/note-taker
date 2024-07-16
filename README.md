@@ -5,6 +5,7 @@
 - [Description](#description)
 - [Challenges](#challenges)
 - [Screenshot](#screenshot-of-note-taker)
+- [Deployable link](#deployable-application-link)
 
 # User Story:
 AS A small business owner
@@ -19,3 +20,6 @@ There were many challenges that i faced while creating this project.  One of the
 
 # Screenshot of Note Taker:
 ![Screenshot of Notes Website](./images/application-screenshot.jpg)
+
+# Deployable Application Link:
+[Deployable Link](https://emmanueljatto.github.io/note-taker/)
