@@ -38,13 +38,6 @@ app.get('/api/notes', (req, res) => {
     });
 });
 
-app.get('/api/notes', (req, res) => {
-    newNote = fs.readFile('db/db.json', 'utf-8');
-    newNote = JSON.parse(newNote);
-
-    res.json(newNote);
-})
-
 app.post('/api/notes', (req, res) => {
     newNote = fs.readFile('./db/db.json', 'utf-8');
     newNote = JSON.parse(newNote);
